@@ -27,10 +27,12 @@ To run this project locally, follow these steps:
    git clone https://github.com/Ahmedmaghrapy11/react-rtk-counter-app.git
    cd react-rtk-counter-app
   ```
+
 2. **Install dependencies**:
    ```bash
      npm install
     ```
+
 3. **Start the Vite development server to preview the project**:
    ```bash
      npm run dev
